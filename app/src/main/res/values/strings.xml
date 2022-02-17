@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Simulator Sportheca</string>
     <string name="txt_action">Botão para simular as partidas</string>
+    <string name="txt_teamName">TextView</string>
+    <string name="txt_imageHomeTeam">Imagem do time da casa</string>
+    <string name="txt_scoreHomeTeam">99</string>
+    <string name="txt_vs">Vs.</string>
+    <string name="txt_imageAwayTeam">Imagem do time visitante</string>
+    <string name="txt_scoreAwayTeam">99</string>
+    <string name="txt_awayTeamName">TextView</string>
 </resources>
